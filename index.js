@@ -16,7 +16,7 @@ class Retangulo{
 }
 
 
-
+let retagulo = new Retangulo("400","200")
 let retangulo = new Retangulo("10","10")
 let retangule = new Retangulo("60","30")
 
@@ -26,5 +26,6 @@ console.log(retangule.altura)
 console.log(retangule.largura)
 console.log(retangulo.area())
 console.log(retangule.area())
+console.log(retagulo.area())
 
 
